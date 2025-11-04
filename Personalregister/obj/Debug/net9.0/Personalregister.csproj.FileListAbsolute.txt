@@ -1,0 +1,14 @@
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\bin\Debug\net9.0\Personalregister.exe
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\bin\Debug\net9.0\Personalregister.deps.json
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\bin\Debug\net9.0\Personalregister.runtimeconfig.json
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\bin\Debug\net9.0\Personalregister.dll
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\bin\Debug\net9.0\Personalregister.pdb
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\Personalregister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\Personalregister.AssemblyInfoInputs.cache
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\Personalregister.AssemblyInfo.cs
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\Personalregister.csproj.CoreCompileInputs.cache
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\Personalregister.dll
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\refint\Personalregister.dll
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\Personalregister.pdb
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\Personalregister.genruntimeconfig.cache
+C:\Users\dana\Desktop\repos\Personalregister\Personalregister\obj\Debug\net9.0\ref\Personalregister.dll
