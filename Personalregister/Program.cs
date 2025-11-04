@@ -51,7 +51,7 @@
                 return;
             }
 
-            Console.WriteLine("\n--------------------------- Employee Register ---------------------------------");
+            Console.WriteLine("\n\n--------------------- EMPLOYEE REGISTER ---------------------");
             Console.WriteLine($"{"ID",-5} | {"Name",-20} | {"Position",-20} | {"Salary",10}");
             Console.WriteLine(new string('-', 70));
 
@@ -79,7 +79,7 @@
 
             while (true)
             {
-                Console.WriteLine("\n--- Employee Register ---");
+                Console.WriteLine("\n\n------- MENU -------");
                 Console.WriteLine("1. Add new employee");
                 Console.WriteLine("2. Show all employees");
                 Console.WriteLine("3. Exit");
@@ -96,10 +96,10 @@
                         register.PrintEmployees();
                         break;
                     case "3":
-                        Console.WriteLine("Exiting program. Bye ^^");
+                        Console.WriteLine("Exiting program. Bye ^^\n");
                         return;
                     default:
-                        Console.WriteLine("Invalid option. Try again.");
+                        Console.WriteLine("Invalid option. Try again.\n");
                         break;
                 }
             }
